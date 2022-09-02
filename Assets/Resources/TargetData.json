@@ -1,0 +1,48 @@
+{
+	"TargetList": [
+		{
+			"Name": "Lift",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -24.1,
+				"y": -1,
+				"z": 0
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "LivingRoom",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 10.81,
+				"y": -1,
+				"z": 19.64
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+
+
+		{
+			"Name": "Kitchen",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -27.62,
+				"y": -1,
+				"z": -27.95
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}
